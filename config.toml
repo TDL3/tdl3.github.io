@@ -1,4 +1,4 @@
-baseURL = "https://tdl3.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "TDL3"
 theme = "hello-friend-ng"
