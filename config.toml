@@ -1,52 +1,74 @@
-baseURL = "https://website-wu07.pages.dev/"
+baseurl = "/"
 languageCode = "en-us"
-title = "TDL3"
-theme = "hello-friend-ng"
-paginate = 10
+theme = "terminal"
+paginate = 5
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
-  footerRight = "Theme <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
-  # Subtitle for home
-  homeSubtitle = "yet another blog"
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
 
-  # Metadata mostly used in document's head
-  description = "TDL3's homepage and blog"
-  keywords = "tdl3, blog, homepage, blurb"
-  images = [""]
+  # show selector to switch language
+  showLanguageSelector = false
 
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+  # set theme to full screen width
+  fullWidthTheme = true
+
+  # center theme with default width
+  centerTheme = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = true
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
 
 [languages]
   [languages.en]
+    languageName = "English"
     title = "TDL3"
-    subtitle = "yet another blog"
+    subtitle = "yet another site"
+    owner = "TDL3"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
     readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "TDL3"
+      logoText = "Terminal"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
