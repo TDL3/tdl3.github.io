@@ -42,7 +42,7 @@ paginate = 10
       logoHomeLink = "/"
     # or
     #
-    # path = "/img/your-example-logo.svg"
+    # path = "/static/cat.svg"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
