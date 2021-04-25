@@ -1,6 +1,6 @@
 ---
 title: "How to Update GeoIP Database for Clash-for-Windows Manually"
-date: 2021-04-25T22:19:11+08:00
+date: 2021-04-23T22:19:11+08:00
 draft: false
 toc: false
 images: 
