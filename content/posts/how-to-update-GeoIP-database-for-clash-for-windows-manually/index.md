@@ -8,7 +8,7 @@ tags:
   - cfw
 ---
 
-## 1. Sign up for an MaxMind account  
+## 1. Sign up for a MaxMind account  
 
 - Visit MaxMind to regsiter
 ## 2. Download GeoLite2 Country database from MaxMind

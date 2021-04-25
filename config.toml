@@ -1,75 +1,52 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
-theme = "terminal"
-paginate = 5
+title = "TDL3"
+theme = "hello-friend-ng"
+paginate = 10
 
 [params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  footerRight = "Theme <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
+  # Subtitle for home
+  homeSubtitle = "yet another blog"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
 
-  # show selector to switch language
-  showLanguageSelector = false
+  # Metadata mostly used in document's head
+  description = "TDL3's homepage and blog"
+  keywords = "tdl3, blog, homepage, blurb"
+  images = [""]
 
-  # set theme to full screen width
-  fullWidthTheme = true
-
-  # center theme with default width
-  centerTheme = false
-
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = true
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
-    languageName = "English"
     title = "TDL3"
-    subtitle = "yet another site"
-    owner = "TDL3"
+    subtitle = "yet another blog"
     keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "TDL3"
       logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
-        
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
