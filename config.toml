@@ -24,6 +24,22 @@ paginate = 10
   keywords = "tdl3, blog, homepage, blurb"
   images = [""]
 
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/TDL3" 
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/TDLTHREE"  
+  
+  [[params.social]]
+    name = "twitch"
+    url = "https://www.twitch.tv/tdl3"  
+  
+  [[params.social]]
+    name = "email"
+    url = "mailto://admin@tdl3.com"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
