@@ -1,4 +1,55 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on TDL3</title><link>https://tdl3.com/posts/</link><description>Recent content in Posts on TDL3</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Fri, 23 Apr 2021 22:19:11 +0800</lastBuildDate><atom:link href="https://tdl3.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Update GeoIP Database for Clash-for-Windows Manually</title><link>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</link><pubDate>Fri, 23 Apr 2021 22:19:11 +0800</pubDate><guid>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</guid><description>1. Sign up for a MaxMind account Visit MaxMind to regsiter 2. Download GeoLite2 Country database from MaxMind Go to your account -&amp;gt; Download files -&amp;gt; Download Binary(.mmdb) format of GeoLite2-Country edition 3. Update GeoIP database Open this path &amp;ldquo;%HOMEPATH%.config\clash&amp;rdquo; if you are on windows Rename Country.mmdb to Country.mmdb.old Extract the database from the archive to the folder and rename it to Country.mmdb</description><content type="html"><![CDATA[<h2 id="1-sign-up-for-a-maxmind-account">1. Sign up for a MaxMind account</h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on TDL3</title><link>https://tdl3.com/posts/</link><description>Recent content in Posts on TDL3</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Wed, 04 May 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://tdl3.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Metabolism and weight loss: How you burn calories</title><link>https://tdl3.com/posts/weight-loss-and-metabolism/</link><pubDate>Wed, 04 May 2022 00:00:00 +0800</pubDate><guid>https://tdl3.com/posts/weight-loss-and-metabolism/</guid><description>Find out how metabolism affects weight, the truth behind slow metabolism and how to burn more calories.
+By Mayo Clinic
+You&amp;rsquo;ve probably heard people blame their weight on a slow metabolism, but what does that mean? Is metabolism really the culprit? And if so, is it possible to rev up your metabolism to burn more calories?
+It&amp;rsquo;s true that metabolism is linked to weight. But contrary to common belief, a slow metabolism is rarely the cause of excess weight gain.</description><content type="html"><![CDATA[<p><strong>Find out how metabolism affects weight, the truth behind slow metabolism and how to burn more calories.</strong></p>
+<p><em>By <a href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508#:~:text=Several%20factors%20determine%20your%20individual,more%20calories%2C%20even%20at%20rest.">Mayo Clinic</a></em></p>
+<p>You&rsquo;ve probably heard people blame their weight on a slow metabolism, but what does that mean? Is metabolism really the culprit? And if so, is it possible to rev up your metabolism to burn more calories?</p>
+<p>It&rsquo;s true that metabolism is linked to weight. But contrary to common belief, a slow metabolism is rarely the cause of excess weight gain.</p>
+<p>Although your metabolism influences your body&rsquo;s basic energy needs, how much you eat and drink along with how much physical activity you get are the things that ultimately determine your weight.</p>
+<h2 id="metabolism-converting-food-into-energy">Metabolism: Converting food into energy</h2>
+<p>Metabolism is the process by which your body converts what you eat and drink into energy. During this complex process, calories in food and beverages are combined with oxygen to release the energy your body needs to function.</p>
+<p>Even when you&rsquo;re at rest, your body needs energy for all its &ldquo;hidden&rdquo; functions, such as breathing, circulating blood, adjusting hormone levels, and growing and repairing cells. The number of calories your body uses to carry out these basic functions is known as your basal metabolic rate — what you might call metabolism.</p>
+<p><strong>Several factors determine your individual basal metabolism, including:</strong></p>
+<ul>
+<li>
+<p><strong>Your body size and composition.</strong> People who are larger or have more muscle burn more calories, even at rest.</p>
+</li>
+<li>
+<p><strong>Your gender.</strong> Men usually have less body fat and more muscle than do women of the same age and weight, which means men burn more calories.</p>
+</li>
+<li>
+<p><strong>Your age.</strong> As you get older, the amount of muscle tends to decrease and fat accounts for more of your weight, slowing down calorie burning.</p>
+</li>
+</ul>
+<p>Energy needs for your body&rsquo;s basic functions stay fairly consistent and aren&rsquo;t easily changed.</p>
+<p>In addition to your basal metabolic rate, two other factors determine how many calories your body burns each day:</p>
+<ul>
+<li>
+<p><strong>Food processing (thermogenesis).</strong> Digesting, absorbing, transporting and storing the food you consume also takes calories. About 10 percent of the calories from the carbohydrates and protein you eat are used during the digestion and absorption of the food and nutrients.</p>
+</li>
+<li>
+<p><strong>Physical activity.</strong> Physical activity and exercise — such as playing tennis, walking to the store, chasing after the dog and any other movement — account for the rest of the calories your body burns up each day. Physical activity is by far the most variable of the factors that determine how many calories you burn each day.</p>
+</li>
+</ul>
+<p>Scientists call the activity you do all day that isn&rsquo;t deliberate exercise nonexercise activity thermogenesis (NEAT). This activity includes walking from room to room, activities such as gardening and even fidgeting. NEAT accounts for about 100 to 800 calories used daily.</p>
+<h2 id="metabolism-and-weight">Metabolism and weight</h2>
+<p>It may be tempting to blame your metabolism for weight gain. But because metabolism is a natural process, your body has many mechanisms that regulate it to meet your individual needs.</p>
+<p>Only in rare cases do you get excessive weight gain from a medical problem that slows metabolism, such as Cushing&rsquo;s syndrome or having an underactive thyroid gland (hypothyroidism).</p>
+<p>Unfortunately, weight gain is a complicated process. It&rsquo;s likely a combination of genetic makeup, hormonal controls, diet composition and the impact of environment on your lifestyle, including sleep, physical activity and stress.</p>
+<p>All of these factors result in an imbalance in the energy equation. You gain weight when you eat more calories than you burn — or burn fewer calories than you eat.</p>
+<p>While it is true that some people seem to be able to lose weight more quickly and more easily than others, everyone loses weight when they burn up more calories than they eat. To lose weight, you need to create an energy deficit by eating fewer calories or increasing the number of calories you burn through physical activity or both.</p>
+<h2 id="a-closer-look-at-physical-activity-and-metabolism">A closer look at physical activity and metabolism</h2>
+<p>While you don&rsquo;t have much control over the speed of your basal metabolism, you can control how many calories you burn through your level of physical activity. The more active you are, the more calories you burn. In fact, some people who are said to have a fast metabolism are probably just more active — and maybe fidget more — than others.</p>
+<p>Aerobic exercise is the most efficient way to burn calories and includes activities such as walking, bicycling and swimming. As a general goal, include at least 30 minutes of physical activity in your daily routine.</p>
+<p>If you want to lose weight or meet specific fitness goals, you may need to increase the time you spend on physical activity even more. If you can&rsquo;t set aside time for a longer workout, try 10-minute chunks of activity throughout the day. Remember, the more active you are, the greater the benefits.</p>
+<p>Experts also recommend strength training exercises, such as weightlifting, at least twice a week. Strength training is important because it helps build muscle. Muscle tissue burns more calories than fat tissue does.</p>
+<p>Any extra movement helps burn calories. Look for ways to walk and move around a few minutes more each day than the day before. Taking the stairs more often and parking farther away at the store are simple ways to burn more calories. Even activities such as gardening, washing your car and doing housework burn calories and contribute to weight loss.</p>
+<h2 id="no-magic-bullet">No magic bullet</h2>
+<p>Don&rsquo;t look to dietary supplements for help in burning calories or weight loss. Products that claim to speed up your metabolism are often more hype than help, and some may cause undesirable or even dangerous side effects.</p>
+<p>Dietary supplement manufacturers aren&rsquo;t required by the U.S. Food and Drug Administration to prove that their products are safe or effective, so view these products with caution. Always let your doctors know about any supplements you take.</p>
+<p>There&rsquo;s no easy way to lose weight. The foundation for weight loss continues to be based on physical activity and diet. Take in fewer calories than you burn, and you lose weight.</p>
+<p>The Dietary Guidelines for Americans recommends cutting calories by 500 to 700 calories a day to lose 1 to 1.5 pounds (0.5 to 0.7 kilograms) a week. If you can add some physical activity to your day, you&rsquo;ll accomplish your weight-loss goals even faster.</p>
+]]></content></item><item><title>How to Update GeoIP Database for Clash-for-Windows Manually</title><link>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</link><pubDate>Fri, 23 Apr 2021 22:19:11 +0800</pubDate><guid>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</guid><description>1. Sign up for a MaxMind account Visit MaxMind to regsiter 2. Download GeoLite2 Country database from MaxMind Go to your account -&amp;gt; Download files -&amp;gt; Download Binary(.mmdb) format of GeoLite2-Country edition 3. Update GeoIP database Open this path &amp;ldquo;%HOMEPATH%.config\clash&amp;rdquo; if you are on windows Rename Country.mmdb to Country.mmdb.old Extract the database from the archive to the folder and rename it to Country.mmdb</description><content type="html"><![CDATA[<h2 id="1-sign-up-for-a-maxmind-account">1. Sign up for a MaxMind account</h2>
 <ul>
 <li>Visit MaxMind to regsiter</li>
 </ul>
