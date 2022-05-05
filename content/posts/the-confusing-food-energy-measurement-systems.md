@@ -10,8 +10,8 @@ tags:
 
 __TL;DR__
 
-when describing food related things, “calories” and “kcals” are used interchangeably.  
-So 1000 calories = 1000 Kcals = 4200 KJ.
+_when describing food related things, “calories” and “kcals” are used interchangeably.  
+So 1000 calories = 1000 Kcals = 4200 KJ._
 
 <br>
 
