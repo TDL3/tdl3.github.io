@@ -82,12 +82,11 @@ It&amp;rsquo;s true that metabolism is linked to weight. But contrary to common 
 <p>Dietary supplement manufacturers aren&rsquo;t required by the U.S. Food and Drug Administration to prove that their products are safe or effective, so view these products with caution. Always let your doctors know about any supplements you take.</p>
 <p>There&rsquo;s no easy way to lose weight. The foundation for weight loss continues to be based on physical activity and diet. Take in fewer calories than you burn, and you lose weight.</p>
 <p>The Dietary Guidelines for Americans recommends cutting calories by 500 to 700 calories a day to lose 1 to 1.5 pounds (0.5 to 0.7 kilograms) a week. If you can add some physical activity to your day, you&rsquo;ll accomplish your weight-loss goals even faster.</p>
-<p>
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/HgzGwKwLmgM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-{{ template &ldquo;_internal/disqus.html&rdquo; . }}</p>
 ]]></content></item><item><title>How to Update GeoIP Database for Clash-for-Windows Manually</title><link>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</link><pubDate>Fri, 23 Apr 2021 22:19:11 +0800</pubDate><guid>https://tdl3.com/posts/how-to-update-geoip-database-for-clash-for-windows-manually/</guid><description>1. Sign up for a MaxMind account Visit MaxMind to regsiter 2. Download GeoLite2 Country database from MaxMind Go to your account -&amp;gt; Download files -&amp;gt; Download Binary(.mmdb) format of GeoLite2-Country edition 3. Update GeoIP database Open this path &amp;ldquo;%HOMEPATH%.config\clash&amp;rdquo; if you are on windows Rename Country.mmdb to Country.mmdb.old Extract the database from the archive to the folder and rename it to Country.mmdb</description><content type="html"><![CDATA[<h2 id="1-sign-up-for-a-maxmind-account">1. Sign up for a MaxMind account</h2>
 <ul>
 <li>Visit MaxMind to regsiter</li>
