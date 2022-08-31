@@ -75,3 +75,4 @@ There's no easy way to lose weight. The foundation for weight loss continues to 
 The Dietary Guidelines for Americans recommends cutting calories by 500 to 700 calories a day to lose 1 to 1.5 pounds (0.5 to 0.7 kilograms) a week. If you can add some physical activity to your day, you'll accomplish your weight-loss goals even faster.
 
 {{< youtube HgzGwKwLmgM >}}
+{{ template "_internal/disqus.html" . }}
