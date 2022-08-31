@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "TDL3"
 theme = "hello-friend-ng"
 paginate = 10
+disqusShortname = 'tdl3'
 
 [params]
   dateform        = "Jan 2, 2006"
